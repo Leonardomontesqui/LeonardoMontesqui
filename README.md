@@ -1,5 +1,5 @@
 # Leonardo Montes Quiliche
-> Software Engineering Student @uWaterloo 
+> Software Engineering Student @ University of Waterloo 
 
 Aside from coding, I love Salsa, Physics, and Disney's butter beers (non-alcaholic I'm 18)
 
