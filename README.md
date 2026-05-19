@@ -1,7 +1,7 @@
 # Leonardo Montes Quiliche
 > Software Engineering Student @ University of Waterloo 
 
-Aside from coding, I like salsa, physics, and gastronomy
+Aside from code, I like salsa, physics, and gastronomy
 
 ## Connect
 - 👤 LinkedIn: [Leonardo Montes Quiliche](https://www.linkedin.com/in/leo-mont/)
