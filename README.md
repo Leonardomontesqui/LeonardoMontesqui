@@ -1,7 +1,7 @@
 # Leonardo Montes Quiliche
 > Software Engineering Student @ University of Waterloo 
 
-I really enjoy salsa and gastronomy
+Currently writing code to make environments from real company data and agents that are really good at analytics. Big fan of salsa and good food
 
 ## Connect
 - 👤 LinkedIn: [Leonardo Montes Quiliche](https://www.linkedin.com/in/leo-mont/)
