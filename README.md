@@ -3,8 +3,5 @@
 
 Big fan of salsa (inline/cuban/caleña) and good food
 
-## Connect
-- 👤 LinkedIn: [Leonardo Montes Quiliche](https://www.linkedin.com/in/leo-montes-q/)
-- 🌐 Website: [leonardomontes.ca](https://www.leonardomontes.ca/)
-- 📧 Email: [lmontesq@uwaterloo.ca](mailto:lmontesq@uwaterloo.ca)
+[Website](https://www.leonardomontes.ca/) | [Linkedin](https://www.linkedin.com/in/leo-montes-q/) | [Email](mailto:lmontesq@uwaterloo.ca)
 
